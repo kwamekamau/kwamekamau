@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 A little late to the game, but I been tuned in on the radio since they sang the national anthem. A seeker, poet, musician, and martial artist... I've taken a rather long time coming to fruition, alas.
 
-But I've been interested in computers and the things we can do with them since I was a kid&emdash;my first program was in BASIC on an Apple IIc&emdash;but it's only now that I've graduated into so-called middle age that I have developed the requisite patience and conviction to practice development enough to (yeah, I'ma say it) really develop.
+But I've been interested in computers and the things we can do with them since I was a kid (my first program was in BASIC on an Apple IIc), but it's only now that I've graduated into so-called middle age that I have developed the requisite patience and conviction to practice software development enough to (yeah, I'ma say it) really develop.
 
 I'm looking forward to helping to develop Web 3 tools that facilitate and enhance virtual communities, especially with regard to governance, and using data for profound storytelling, but that's a ways off. For now, I'm consolidating my understanding of full-stack web development with the [Learn Enough™](https://learnenough.com) series of tutorials, by Michael Hartl, et al.
 
